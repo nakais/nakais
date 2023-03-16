@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **nakais/nakais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +12,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Profile views](https://gpvc.arturio.dev/nakais)
 -->
+<table>
+  <tr>
+    <td><img src = "https://tenor.com/en-GB/view/laptop-exploding-head-screens-computer-game-new-computer-gif-14910205497937330747"></td>
+  </tr>
+</table>  
