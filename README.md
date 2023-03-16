@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <td><img src="https://tenor.com/en-GB/view/laptop-exploding-head-screens-computer-game-new-computer-gif-14910205497937330747"></td>
     <td>
         <ul>
-          <li><strong>Name:</strong>Nazrul Islam</a></li>
+          <li><strong>Name:</strong> Nazrul Islam</a></li>
           <li><em>Looking to secure the role of an entry-level QA Engineer in a dynamic and progressive software firm that would provide challenging opportunities for growth and expanding learning.</em> </li>
           <li><strong>Hobbies:</strong> Reading books, travelling and cooking</li>
         </ul>
