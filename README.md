@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <table>
   <tr>
-    <td><img src="https://tenor.com/en-GB/view/laptop-exploding-head-screens-computer-game-new-computer-gif-14910205497937330747"></td>
+    <td><img src="https://tenor.com/en-GB/view/bubududu-panda-gif-21332401"></td>
     <td>
         <ul>
           <li><strong>Name:</strong> Nazrul Islam</a></li>
