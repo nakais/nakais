@@ -20,12 +20,12 @@ Here are some ideas to get you started:
     <td>
         <ul>
           <li><strong>Name:</strong> Nazrul Islam</a></li>
-          <li><em>Looking to secure the role of an entry-level QA Engineer in a dynamic and progressive software firm that would provide challenging opportunities for growth and expanding learning.</em> </li>
+          <em>Looking to secure the role of an entry-level QA Engineer in a dynamic and progressive software firm that would provide challenging opportunities for growth and expanding learning.</em>
           <li><strong>Hobbies:</strong> Reading books, travelling and cooking</li>
         </ul>
         <h4><ins>Connect with me:</ins></h4>
-          <a href="nazrulislam5250@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/apple-mail.png"/></a>
-          <a href="https://www.linkedin.com/in/nazrul50/"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>
+          <a href="nazrulislam5250@gmail.com"><img src="https://img.icons8.com/color/1x/circled-envelope.png"/></a>
+          <a href="https://www.linkedin.com/in/nazrul50/"><img src="https://img.icons8.com/fluency/1x/linkedin-circled.png"/></a>
     </td>
   </tr>
 </table>
