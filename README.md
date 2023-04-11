@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Profile views](https://gpvc.arturio.dev/nakais)
 -->
 <table>
   <tr>
-    <td><img src="https://tenor.com/en-GB/view/bubududu-panda-gif-21332401"></td>
+    <td><img src="https://media3.giphy.com/media/WTJLe0xXX6QrPg1nVl/giphy.gif?cid=ecf05e47aufk1lddm028y6phh5hu8ukrg77vy85hw2x3u6m5&rid=giphy.gif&ct=g"></td>
+  
     <td>
         <ul>
           <li><strong>Name:</strong> Nazrul Islam</a></li>
