@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <td>
         <ul>
           <li><strong>Name:</strong> Nazrul Islam</a></li>
-          <em>Looking to secure the role of an entry-level QA Engineer in a dynamic and progressive software firm that would provide challenging opportunities for growth and expanding learning.</em>
+          <em>Looking to secure the role of an entry-level role in a dynamic and progressive software firm that would provide challenging opportunities for growth and expanding learning.</em>
           <li><strong>Hobbies:</strong> Reading books, travelling and cooking</li>
         </ul>
         <h4><ins>Connect with me:</ins></h4>
